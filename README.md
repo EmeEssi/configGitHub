@@ -30,6 +30,10 @@ Adicionar Repositório no GitHub:
 ```
 git remote add origin URL_REPOSITORIO_GITHUB
 ```
+Definir a branch main:
+```
+git branch -M main
+```
 Enviar arquivo no GitHub:
 ```
 
