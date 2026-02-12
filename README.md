@@ -36,5 +36,5 @@ git branch -M main
 ```
 Enviar arquivo no GitHub:
 ```
-
+git push -u origin main
 ```
